@@ -7,6 +7,7 @@ namespace TrashBen_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("No more trouble!");//comment
         }
     }
 }
